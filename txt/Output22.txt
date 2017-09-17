@@ -1,0 +1,250 @@
+Niloy Ganguly
+Professor
+ niloy@cse.iitkgp.ernet.in
+91-3222-283460
+http://www.facweb.iitkgp.ernet.in/~niloy/
+Niloy Ganguly is a professor of computer science, IIT Kharagrpur who works in three different but related  fields: (1) Online Social networks, (2) Network Theory, (3) mobile systems.  Prior to his current position as a faculty at Indian Institute of Technology, Kharagpur, India, he was working as a Research Scientist in Zentrum für Hochleistungsrechnen, Technische Universität Dresden for two years. He received his Ph.D from IIEST, Shibpur and BTech from IIT Kharagpur.He is a part of  a very active research group CNeRG (Complex Network Research Group) http://cnerg.org in IIT Kharagpur. He has been collaborating with various national and international universities and research lab including UIUC, TU Dresden, Germany, MPI PKS and MPI SWS, Germany, Microsoft Lab, Adobe Labs, HP Labs, NetApp Labs etc. He currently publishes in various top ranking international journals and conferences including ICDM, ACL, WWW, INFOCOM, SIGIR, SIGKDD, SIGCHI, ICWSM, CSCW, NIPS CCS, PODC,  Euro Physics Letters, Physical Review E, ACM and IEEE Transactions, etc.For further information on Dr. Ganguly, please visit his website: http://www.facweb.iitkgp.ernet.in/~niloy/.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Analyzing the Dynamics of Critical Information Diffusion on Social Media: A Network Science Initiative (DyCiN)
+Indo-Belgian Research and Technology Cooperation
+Classification &amp
+ Progression Modelling of Cardiovascular &amp
+ Pulmonary Diseases Using Advanced Data Analytics &amp
+ Machine Learning Techniques
+IoTimize LLC
+Data driven approaches for inferring opinion dynamics on social networks
+Department of Science &amp
+ Technology(DST)
+Design and Development of Activity/Event Based Authentication Framework
+Bharat Electronics Ltd. (A Govt. of India Enterprise) Central Research Laboratory
+Design and Development of Security Module to Prevent Information Leakage from Android Systems
+Bharat Electronics Ltd. (A Govt. of India Enterprise) Central Research Laboratory
+Efficiently Managing Storage Space in IOT (Internet of Things)
+Hewlett Packard (India) Software Operations Private Limited
+Evolving communities and information spreading
+Indo-French Centre for the promotion of Avanced Research (CEFIPRA)
+Fast and communication efficient distributed supervised machine learning system using big data platforms
+Science and Engineering Research Board (SERB)
+From Word Senses to Entity Roles: Identifying Temporal and Media-specific Scopes Through Big Data Analytics
+Indian National Science Academy
+Google Unrestricted Fund for Social Computing 
+GOOGLE INDIA PVT. LTD
+Identifying topical experts on twitter
+Yahoo
+Leveraging bipartite network to investigate the dynamical properties of socio-technical systems 
+Samsung Electronics Co.Ltd.
+NSF and Intel grants to Georgia State University
+NSF and Intel Grants to Georgia State University
+Post disaster situation analysis and resource management using delay tolerant peer to peer wireless networks (DISARM) 
+Information Technology Research Academy (ITRA)
+QoS Based Network Resource Management to Cater to Dynamic Workload Mobility in Hyperconverged Architecture
+Hewlett Packard (India) Software Operations Private Limited
+Real Time Failure Prediction System
+NetApp India Private Limited
+Real time fault prediction system
+NetApp India Private Limited
+Social computing for e-commerce 
+Flipkart Internet Private Ltd
+Understanding Different Pragmatic Functions Behind Code-Switching 
+MICROSOFT RESEARCH LAB. INDIA PVT. LTD., BANGALORE
+Unrestricted Grant for Estimation of Product Response using Temporal Modeling of Past Events 
+Flipkart Internet Private Ltd
+Unrestricted grant for research in social networks and user-generated content
+Dr. M Chelliah, Head, Academic Relations, Yahoo India R &amp; D
+Unrestricted research grant in social computing
+MICROSOFT CORPORATION
+Unrestricted Travel Grant
+Various Institutes/Organisations
+Parantapa Bhattacharya
+Cloud Computing and Online Social Network – Ph.D.
+Abir De
+Social Network  – Ph.D.
+Sandipan Sikdar
+Time varying networks  – Ph.D.
+Koustav Rudra
+Social Networks  – Ph.D.
+Abhijnan Chakraborty
+Social Computing – Ph.D.
+Surjya Ghosh
+Mobile Networks and Applications  – Ph.D.
+Madhumita Mallick
+IOT – Ph.D.
+Bidisha Samanta
+Social Network  – Ph.D.
+Sankarshan Mridha
+Complex Networks and Machine Learning  – MS
+Subhendu Khatuya
+Recommendation system  – MS
+Satadal Sengupta 
+MS
+Supritam Bhattacharjee
+Machine Learning for Healthcare – MS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+UrbanEye: An Outdoor Localization System for Public Transport by Rohit Verma, Aviral Shrivastava, Bivas Mitra, Sujoy Saha, Niloy Ganguly, Subrata Nandi and Sandip Chakraborty INFOCOM San Fransisco, USA 1-9 
+2016
+On the Wisdom of Experts vs. Crowds: Discovering Trustworthy Topical News in Microblogs by M. Billal Zafar, Parantapa Bhattacharya, Niloy Ganguly, Saptarshi Ghosh, Krishna. P. Gummadi. CSCW San Fransisco, USA 437-450
+2016
+Permanence and Community Structure in Complex Networks, by Tanmoy Chakraborty, Sriram, Niloy Ganguly, Animesh Mukherjee, Sanjukta Bhowmick, ACM Transactions on Knowledge Discovery from Data
+2016
+Time series analysis of temporal networks. by Sandipan Sikdar, Niloy Ganguly, Animesh Mukherjee Euro Physics Journal B 89(1) 1-11 
+2016
+Distinguishing between Topical and Non-topical Information Diffusion Mechanisms in Social Media, by Przemyslaw Grabowicz, Niloy Ganguly and Krishna Gummadi ICWSM 151-160
+2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
