@@ -1,0 +1,55 @@
+16CS60R54 - Shakti Papdeja
+
+Grammar in BNF form
+
+
+Start :   HTML_START  Content  HTML_END 
+      | DOCT   HTML_START  Content  HTML_END 
+      ; 
+
+Content :  Head_Start Head_Content Head_End Body_Start Body_Content Body_End
+        ;
+Head_Content :   ANY_STRING 
+             ;
+
+Body_Content :  Name_Start Name_String Name_End Phone_Start Phone_String Phone_End Web_Start Web_String Web_End Responsibility Awards Publications Research GroupMembers 
+             ;
+ 
+Name_Start : <strong><span><a href="/department/CS">Computer Science and Engineering</span></a></strong> &gt;<strong><span> 
+Name_End : </span></strong>
+
+Phone_Start : <li><i class="fa fa-phone"></i>
+Phone_End : </li>
+
+Web_Start : <li><i class="fa fa-envelope"></i> 
+Web_End : </li>
+
+Responsibility : empty
+               | <div  id="collapseOne" class="accordion-body collapse in" aria-expanded="true"><div class="accordion-inner"><ul>
+                 [<li> List </li>]* </ul> </div> </div>
+List : [a-zA-Z0-9 \t\n]*
+
+Awards : empty
+       | <div style="height: 0px;" id="collapseseven" class="accordion-body collapse">
+         <div class="accordion-inner"> <ul> [<li> List </li>]* </ul> </div> </div>
+
+Publications : empty
+             |<div class="tab-pane" id="resp-tab2"> [<p><span class="glyphicon glyphicon-circle-arrow-right"></span> PubTitle <b> PubYear </b></p>]* </div>
+
+Research : empty
+         | <p class="text-justify"> <span class="glyphicon glyphicon-circle-arrow-right"></span> ANY_STRING </p>
+
+GroupMembers : empty
+             | <center><h4><u><b>Ph.D. </b>Students</u></h4></center> [<p><span class="glyphicon glyphicon-circle-arrow-right"></span> Name_String <br> <b>Area of Research: </b><font color="#0040FF"> ANY_STRING </font></p>]*
+<center><h4><u><b>MS </b>Students</u></h4></center> [<p><span class="glyphicon glyphicon-circle-arrow-right"></span> Name_String <br> <b>Area of Research: </b><font color="#0040FF"> ANY_STRING </font></p>] * 
+                                                        
+
+PubTitle : [a-zA-Z0-9 \t\n]*
+PubYear : [0-9]4
+Web_String : [a-zA-Z0-9\.\@\/]+
+Phone_String : +[0-9-]*
+Name_String : [a-zA-Z ]+
+ANY_STRING : [a-zA-Z0-9\.\'\?\!\~\(\)\[\]\,\"\\$\%\@ \n\t]*
+
+
+

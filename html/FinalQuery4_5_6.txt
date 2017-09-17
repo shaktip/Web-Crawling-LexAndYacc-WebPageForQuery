@@ -1,0 +1,48 @@
+4.
+SELECT fd.fact_id, fd.fact_name, max_fact.fact_id_count
+  FROM faculty_details fd,
+       (SELECT fic.fact_id_count, fic.fact_id
+          FROM (SELECT COUNT(fact_id) fact_id_count, fact_id
+                    FROM faculty_group_members
+                   WHERE group_area_of_research like '%Ph.d%'
+                GROUP BY fact_id
+                ORDER BY COUNT(fact_id) DESC) fic
+         LIMIT 1) max_fact
+ WHERE fd.fact_id = max_fact.fact_id
+________________________________________________________________________________________
+5.
+
+SELECT fd.fact_id, fd.fact_name , max_fact.pub_year_count
+  FROM faculty_details fd,
+       (SELECT fic.pub_year_count, fic.fact_id
+          FROM (SELECT   COUNT(fact_id) pub_year_count, fact_id
+                    FROM faculty_publications
+                   WHERE pub_year = 2015
+                GROUP BY fact_id
+                ORDER BY COUNT(fact_id) DESC) fic
+         LIMIT  1) max_fact
+ WHERE fd.fact_id = max_fact.fact_id
+
+
+
+
+
+
+  select fd.fact_id, fd.fact_name 
+    from faculty_details fd, faculty_publications pub
+      where fd.fact_id = pub.fact_id and pub_year = 2015 
+      group by fd.fact_id, fd.fact_name 
+      having count(*) = (Select max(count(*)) from faculty_publications group by fact_id)
+
+________________________________________________________________________________________
+6.
+
+SELECT fd.fact_id, fd.fact_name, max_fact.project_count
+  FROM faculty_details fd,
+       (SELECT fic.project_count, fic.fact_id
+          FROM (SELECT   COUNT(fact_id) project_count, fact_id
+                    FROM faculty_current_projects
+                GROUP BY fact_id
+                ORDER BY COUNT(fact_id) DESC) fic
+         LIMIT  1) max_fact
+ WHERE fd.fact_id = max_fact.fact_id
