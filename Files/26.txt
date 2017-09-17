@@ -1,0 +1,165 @@
+Pawan Goyal
+----------
+pawang@cse.iitkgp.ernet.in                                                                         
+----------
++91-3222-282370                                                                         
+----------
+http://cse.iitkgp.ac.in/~pawang/
+----------
+My research focuses mainly on text mining for information extraction from the Web, Social Media and scholarly articles. Some of the research problems that I am tackling include extracting diverse opinions from online news and user generated content, summarizing tweets in disaster scenario for situational updates, novel word sense detection using content analysis, spam detection in video metadata using user comments, wikification of scientific articles etc. I am also working on computational models for prediction as well as recommendation, e.g., future citation recommendation, tag recommendation in community question answering etc. I am also actively working in the field of
+----------
+ 
+                                                
+                                                    
+                                                           
+                                                            A deep validation study of Indian Language system based on patterns of a) comparative Philology, Phonology &amp; Phonetics &amp; b) Psycho-Physics of Varnamala&nbsp; MHRD 
+                                                         
+                                                    
+                                                           
+                                                            Aspect Based Opinion Extraction for Automated Product Comparison&nbsp; Science and Engineering Research Board (SERB) 
+                                                         
+                                                    
+                                                           
+                                                            Effective Drug Repurposing Through Literature &amp; Patent Mining, Data Integration &amp; Development of Systems Pharmacology Platform&nbsp; Department of Electronics and Information Technology 
+                                                         
+                                                    
+                                                           
+                                                            Google Unrestricted Fund for Social Computing&nbsp; GOOGLE INDIA PVT. LTD 
+                                                         
+                                                    
+                                                           
+                                                            IndicView: Because language is no more a barrier&nbsp; GOOGLE INDIA PVT. LTD 
+                                                         
+                                                    
+                                                           
+                                                            Teaching Learing Centre for Internet-of-things&nbsp; MHRD, Department of Higher Education, NMEICT, New Delhi 
+                                                         
+                                                    
+                                                           
+                                                            To develop a scientific rationale of IELS (Indo-European Langauge Systems) applying a) Computational Linguistics &amp; b) Cognitive Geo-spatial mapping approaches&nbsp; MHRD 
+                                                         
+                                                    
+                                                           
+                                                            Unrestricted Grant for Research in Review Mining&nbsp; Flipkart Internet Private Ltd. 
+                                                         
+                                                    
+                                                           
+                                                            Unrestricted grant for research in social networks and user-generated content&nbsp; Dr. M Chelliah, Head, Academic Relations, Yahoo India R &amp; D 
+                                                         
+                                                    
+                                                           
+                                                            Unrestricted Travel Grant&nbsp; Various Institutes/Organisations 
+                                                         
+                                                    
+                                                 
+                                             
+
+
+                                                 
+                                            
+
+                                             
+                                             
+                                                
+                                                    
+                                                    
+                                                    
+                                                        
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                Ph.D.  Students   
+                                                        
+                                                        
+                                                           
+                                                            Mayank Singh 
+                                                             Area of Research:   Data Mining, Natural Language Processing, Machine Learning 
+                                                         
+                                                        
+                                                    
+                                                        
+                                                        
+                                                        
+                                                           
+                                                            Krishnendu Ghosh 
+                                                             Area of Research:   Artificial Intelligence in Education 
+                                                         
+                                                        
+                                                    
+                                                        
+                                                        
+                                                        
+                                                           
+                                                            Abhik Jana 
+                                                             Area of Research:   Word Sense Disambiguation and Discovery 
+                                                         
+                                                        
+                                                    
+                                                        
+                                                        
+                                                        
+                                                           
+                                                            Amrith Krishna 
+                                                             Area of Research:   Sanskrit Computational Linguistics 
+                                                         
+                                                        
+                                                    
+                                                        
+                                                        
+                                                        
+                                                           
+                                                            Mayank Bhasin 
+                                                             Area of Research:   Spatio-temporal structure of concept representation 
+                                                         
+                                                        
+                                                    
+                                                        
+                                                        
+                                                        
+                                                           
+                                                            Binny Mathew 
+                                                             Area of Research:   Language dynamics in text and social media 
+                                                         
+                                                        
+                                                    
+                                                        
+                                                        
+                                                        
+                                                           
+                                                            Harshit 
+                                                             Area of Research:   Visual concept representation 
+                                                         
+                                                        
+                                                    
+                                                        
+                                                        
+                                                            
+                                                            
+                                                             
+                                                                MS  Students   
+                                                        
+                                                        
+                                                           
+                                                            Ankan Mullick 
+                                                             Area of Research:   Text summarization 
+                                                         
+                                                        
+                                                    
+                                                 
+                                             
+                                            
+                                            
+                                         
+                                     
+                                 
+                             
+                         
+                          
+                     
+
+                 
+             
+         
+----------
+End of parsing 

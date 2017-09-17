@@ -1,0 +1,81 @@
+Rajib Mall
+----------
+Professor
+----------
+
+----------
+                                                                    
+                                                                        
+Prof-in-Charge, B. C. Roy Technology Hospital
+
+----------
+rajib@cse.iitkgp.ernet.in                                                                         
+----------
++91-3222-283482                                                                         
+----------
+Program source code is not amenable to efficient processing. Consequently, various types of modes of program such as dependency model, flow model, state model, interaction model, etc. can be extracted from source code. Of course, the models would differ in their syntax and sematics for different programming paradigms sporting different programming features and concurrency. Once a suitable program model has been defined, it is used for various software engineering tasks such as test coverage analysis, test case generation, regression test case selection, test prioritixation, optimization, fault-localization, etc.
+----------
+ 
+                                                
+                                                    
+                                                           
+                                                            Free and open source software for software engineering&nbsp; MHRD, Department of Higher Education, NMEICT, New Delhi 
+                                                         
+                                                    
+                                                           
+                                                            GENERAL MOTORS ECS CRL FOR EDUCATION&nbsp; General Motors Technical Centre India Pvt. Ltd. 
+                                                         
+                                                    
+                                                 
+                                             
+
+
+                                                 
+                                            
+
+                                             
+                                             
+                                                
+                                                    
+                                                    
+                                                    
+                                                        
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                Ph.D.  Students   
+                                                        
+                                                        
+                                                           
+                                                            Debashis Mukherjee 
+                                                             Area of Research:   Program analysis and testing using machine learning approaches 
+                                                         
+                                                        
+                                                    
+                                                        
+                                                        
+                                                        
+                                                           
+                                                            Sourav Sinha 
+                                                             Area of Research:   Software Reliability 
+                                                         
+                                                        
+                                                    
+                                                 
+                                             
+                                            
+                                            
+                                         
+                                     
+                                 
+                             
+                         
+                          
+                     
+
+                 
+             
+         
+----------
+End of parsing 

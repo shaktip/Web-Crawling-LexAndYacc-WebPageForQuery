@@ -1,0 +1,180 @@
+
+******NAME = Abhijit Das $
+******DESIGNATION = Associate Professor $
+******EMAIL = abhij@cse.iitkgp.ernet.in                                                                          $
+******CONTACT =  +91-3222-282350                                                                          $Website Token Recognized <a target="_blank" href="http://cse.iitkgp.ac.in/~abhij/">
+**** Website = http://cse.iitkgp.ac.in/~abhij/ $
+
+******Research Statement=  The main research interest of Dr. Das is computational number theory with applications to public-key cryptography and public-key cryptanalysis. He is also interested in efficient implementations of algorithms of interest in computational number theory and public-key cryptology. Some specific research areas of Dr. Das are algorithms for integer factorization and the discrete logarithm problem, elliptic-curve and pairing-based cryptography, cryptographic protocols in mobile and ad hoc networks, algebraic attacks, and massively parallel implementations of cryptographic and cryptanalytic algorithms. 
+***** Publication Tag <div class="tab-pane" id="resp-tab2"> 
+                                                
+                                                    
+                                                        <p><span class="glyphicon glyphicon-circle-arrow-right"></span>
+                                                            Computational Number Theory <i> by </i>
+                                                            Abhijit Das  
+                                                            Series: Discrete Mathematics and its Applications 
+                                                            CRC Press 
+                                                            <b> 614 pages </b>
+                                                            (2013)
+
+                                                        </p>
+                                                    
+                                                        <p><span class="glyphicon glyphicon-circle-arrow-right"></span>
+                                                            Public-Key Cryptography: Theory and Practice <i> by </i>
+                                                            Abhijit Das and C E Veni Madhavan  
+                                                            Graduate Text 
+                                                            Pearson Education 
+                                                            <b> 584 pages </b>
+                                                            (2009)
+
+                                                        </p>
+                                                    
+                                                        <p><span class="glyphicon glyphicon-circle-arrow-right"></span>
+                                                            New Algorithms for Batch Verification of Standard ECDSA Signatures <i> by </i>
+                                                            Sabyasachi Karati, Abhijit Das, Dipanwita Roychowdhury, Bhargav Bellur, Debojyoti Bhattacharya and Aravind Iyer  
+                                                            Journal of Cryptographic Engineering 
+                                                            4(4) Springer-Verlag 
+                                                            <b> 237-258 </b>
+                                                            (2014)
+
+                                                        </p>
+                                                    
+                                                        <p><span class="glyphicon glyphicon-circle-arrow-right"></span>
+                                                            Faster Batch Verification of Standard ECDSA Signatures Using Summation Polynomials <i> by </i>
+                                                            Sabyasachi Karati and Abhijit Das  
+                                                            12th International Conference on Applied Cryptography and Network Security (ACNS) 
+                                                            LNCS 8479 Springer-Verlag 
+                                                            <b> 438-456 </b>
+                                                            (2014)
+
+                                                        </p>
+                                                    
+                                                        <p><span class="glyphicon glyphicon-circle-arrow-right"></span>
+                                                            Use of SIMD Features to Speed up Eta Pairing <i> by </i>
+                                                            Anup Kumar Bhattacharya, Sabyasachi Karati, Abhijit Das, Dipanwita Roychowdhury, Bhargav Bellur and Aravind Iyer  
+                                                            Communications in Computer and Information Science 
+                                                            455 Springer-Verlag 
+                                                            <b> 137-154 </b>
+                                                            (2014)
+
+                                                        </p>
+                                                    
+                                                        <p><span class="glyphicon glyphicon-circle-arrow-right"></span>
+                                                            GPU-Based Implementation of 128-bit Secure Eta Pairing over a Binary Field <i> by </i>
+                                                            Utsab Bose, Anup Kumar Bhattacharya and Abhijit Das  
+                                                            6th International Conference on Cryptology in Africa (AfricaCrypt) 
+                                                            LNCS 7918 Springer-Verlag 
+                                                            <b> 26-42 </b>
+                                                            (2013)
+
+                                                        </p>
+                                                    
+                                                        <p><span class="glyphicon glyphicon-circle-arrow-right"></span>
+                                                            Use of SIMD-Based Data Parallelism to Speed up Sieving in Integer-Factoring Algorithms <i> by </i>
+                                                            Binanda Sengupta and Abhijit Das  
+                                                            Applied Mathematics and Computation 
+                                                            Volume 293 
+                                                            <b> 204-217 </b>
+                                                            (2016)
+
+                                                        </p>
+                                                    
+                                                        <p><span class="glyphicon glyphicon-circle-arrow-right"></span>
+                                                            New Variants of Algebraic Attacks Based on Structured Gaussian Elimination (Extended Abstract) <i> by </i>
+                                                            Satrajit Ghosh and Abhijit Das  
+                                                            Third International Conference on Symbolic Computation and Cryptography (SCC) 
+                                                            Castro Urdiales, Spain 
+                                                            <b> 119-125 </b>
+                                                            (2012)
+
+                                                        </p>
+                                                    
+                                                        <p><span class="glyphicon glyphicon-circle-arrow-right"></span>
+                                                            Parallelization of the Lanczos Algorithm on Multi-Core Platforms <i> by </i>
+                                                            Souvik Bhattacherjee and Abhijit Das  
+                                                            11th International Conference on Distributed Computing and Networking (ICDCN) 
+                                                            LNCS 5935 Springer-Verlag 
+                                                            <b> 231-241 </b>
+                                                            (2010)
+
+                                                        </p>
+                                                    
+                                                        <p><span class="glyphicon glyphicon-circle-arrow-right"></span>
+                                                            On the Cubic Sieve Method for Computing Discrete Logarithms over Prime Fields <i> by </i>
+                                                            Abhijit Das and C E Veni Madhavan  
+                                                            International Journal of Computer Mathematics (IJCM) 
+                                                            82(12) Taylor and Francis 
+                                                            <b> 1481-1495 </b>
+                                                            (2005)
+
+                                                        </p>
+                                                    
+                                                
+                                            </div>
+                                            <div class="tab-pane" id="resp-tab3">
+                                                
+                                                    
+                                                        <p><span class="glyphicon glyphicon-circle-arrow-right"></span>
+                                                            Design and efficient implementation of advanced encryption and decryption techniques for use in spacecraft communication&nbsp;<b>ISRO, IIT KHARAGPUR CELL</b>
+                                                        </p>
+                                                    
+                                                        <p><span class="glyphicon glyphicon-circle-arrow-right"></span>
+                                                            Indigenous design methodologies for elliptic curve cryptography on FPGs&nbsp;<b>Directorate of extramural research &amp; intellectual property rights (ER&amp;IPR), DRDO</b>
+                                                        </p>
+                                                    
+                                                 
+                                            </div>
+
+
+                                                <!--New Design of Group Members Tab  -- NOT COMPLETED-->
+                                            
+
+                                            <!--Old Design of Group Members Tab-->
+                                            <div class="tab-pane" id="resp-tab4">
+                                                
+                                                    
+                                                    
+                                                    
+                                                        
+                                                        
+                                                            
+                                                            
+                                                            
+                                                            <center><h4><u><b>Ph.D. </b>Students</u></h4></center>
+                                                        
+                                                        
+                                                        <p><span class="glyphicon glyphicon-circle-arrow-right"></span>
+                                                            Souvik Sur<br>
+                                                            <b>Area of Research: </b><font color="#0040FF">Cryptology</font>
+                                                        </p>
+                                                        
+                                                    
+                                                        
+                                                        
+                                                            
+                                                            
+                                                            
+                                                            <center><h4><u><b>MS </b>Students</u></h4></center>
+                                                        
+                                                        
+                                                        <p><span class="glyphicon glyphicon-circle-arrow-right"></span>
+                                                            Anindya Ganguly<br>
+                                                            <b>Area of Research: </b><font color="#0040FF">Cryptography</font>
+                                                        </p>
+                                                        
+                                                    
+                                                 
+                                            </div>
+                                            
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+
+                </div>
+            </div>
+        </div>End of parsing 

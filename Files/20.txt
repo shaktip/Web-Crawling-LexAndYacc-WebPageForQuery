@@ -1,0 +1,200 @@
+Pralay Mitra
+----------
+
+----------
+                                                                    
+                                                                        
+Associate Head, Institute Information Cell
+
+----------
+pralay@cse.iitkgp.ernet.in                                                                         
+----------
++91-3222-282344                                                                         
+----------
+http://cse.iitkgp.ac.in/~pralay/
+----------
+We are interested in realizing the biological phenomenon thourgh computational and experimental techniques. The focus is on developing new computational algorithms and tools for biological and clinical investigators. 
+----------
+  
+                                                
+                                                    
+                                                           
+                                                            An evolution-based approach to de novo protein design and case study on Mycobacterium Tuberculosis   by  
+                                                            Mitra, P., Shultis, D., Brender, J. R., Czajka, J., Marsh, D., Gray, F., Cierpicki, T., Zhang, Y.  
+                                                            PLoS Computational Biology 
+                                                            9(10) 
+                                                              e1003298  
+                                                            (2013)
+
+                                                         
+                                                    
+                                                           
+                                                            Combining Bayes classification and point group symmetry under Boolean framework for enhanced protein quaternary structure inference   by  
+                                                            Mitra, P., Pal, D.  
+                                                            Structure 
+                                                            19(3) 
+                                                              304-312  
+                                                            (2011)
+
+                                                         
+                                                    
+                                                           
+                                                            EvoDesign: de novo protein design based on structural and evolutionary profiles   by  
+                                                            Mitra, P., Shultis, D., Zhang, Y.  
+                                                            Nucleic Acids Research 
+                                                            41 
+                                                              W273-W280  
+                                                            (2013)
+
+                                                         
+                                                    
+                                                           
+                                                            Using correlated parameters for improved ranking of protein-protein docking decoys   by  
+                                                            Mitra, P., Pal, D.  
+                                                            Journal of Computational Chemistry 
+                                                            32(5) 
+                                                              787-796  
+                                                            (2011)
+
+                                                         
+                                                    
+                                                           
+                                                            New measures for estimating surface complementarity and packing at protein-protein interfaces   by  
+                                                            Mitra, P., Pal, D.  
+                                                            FEBS Letters 
+                                                            584(6) 
+                                                              1163-1168  
+                                                            (2010)
+
+                                                         
+                                                    
+                                                           
+                                                            How many protein-protein interaction types exist in nature?   by  
+                                                            Garma, L., Mukherjee, S., Mitra, P., Zhang, Y.  
+                                                            PLoS One 
+                                                            7 
+                                                              e38913  
+                                                            (2012)
+
+                                                         
+                                                    
+                                                           
+                                                            PRUNE and PROBE  two modular web services for protein-protein docking   by  
+                                                            Mitra, P., Pal, D.  
+                                                            Nucleic Acids Research 
+                                                            39 
+                                                              W229-234  
+                                                            (2011)
+
+                                                         
+                                                    
+                                                
+                                             
+----------
+ 
+                                                
+                                                    
+                                                           
+                                                            Design &amp; Development of IIT Kharagpur Website&nbsp; IIT KHARAGPUR 
+                                                         
+                                                    
+                                                           
+                                                            Designing proteins with enhanced stability by modulating the entropy in the folded state&nbsp; UGC under India - Israel Joint Research Project - 2014 
+                                                         
+                                                    
+                                                           
+                                                            Multimodal and multi-scale imaging for early diagnosis and interventional management of oral pre-cancers and cancer&nbsp; MHRD 
+                                                         
+                                                    
+                                                           
+                                                            Predictive docking: Improving the performance by refining protein structures&nbsp; ISIRD, SRIC 
+                                                         
+                                                    
+                                                           
+                                                            Unraveling cancer transformation and progression through biological, electro-mechanical and computational techniques&nbsp; MHRD 
+                                                         
+                                                    
+                                                           
+                                                            Whole cell modeling and simulation in bacterium escherichia coli (SGIGC)&nbsp; SRIC, IIT KHARAGPUR 
+                                                         
+                                                    
+                                                 
+                                             
+
+
+                                                 
+                                            
+
+                                             
+                                             
+                                                
+                                                    
+                                                    
+                                                    
+                                                        
+                                                        
+                                                            
+                                                            
+                                                            
+                                                                Ph.D.  Students   
+                                                        
+                                                        
+                                                           
+                                                            Shyantani Maiti 
+                                                             Area of Research:   Bioinformatics 
+                                                         
+                                                        
+                                                    
+                                                        
+                                                        
+                                                        
+                                                           
+                                                            Anupam Banerjee 
+                                                             Area of Research:   Bioinformatics 
+                                                         
+                                                        
+                                                    
+                                                        
+                                                        
+                                                        
+                                                           
+                                                            Barnali Das 
+                                                             Area of Research:   Bioinformatics 
+                                                         
+                                                        
+                                                    
+                                                        
+                                                        
+                                                        
+                                                           
+                                                            Abantika Pal 
+                                                             Area of Research:   Bioinformatics 
+                                                         
+                                                        
+                                                    
+                                                        
+                                                        
+                                                        
+                                                           
+                                                            Angana Biswas 
+                                                             Area of Research:   Cancer Biology 
+                                                         
+                                                        
+                                                    
+                                                 
+                                             
+                                            
+                                            
+                                         
+                                     
+                                 
+                             
+                         
+                          
+                     
+
+                 
+             
+         
+----------
+End of parsing 
